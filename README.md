@@ -5,6 +5,6 @@
 * [Google News(Taiwan)](https://news.google.com.tw/)
 
 ## 使用環境與套件
-Ubuntu 16.04.1
-Python 3.5.2
-BeautifulSoup 4
+* Ubuntu 16.04.1
+* Python 3.5.2
+* BeautifulSoup 4
